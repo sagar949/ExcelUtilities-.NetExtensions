@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>AwesomeUtilities</PackageId>
+    <Authors>Vidya Sagar Pamula</Authors>
+    <Product>Awesome Utilities</Product>
+    <Description>Usefull Extension Methods</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.94.2" />
+  </ItemGroup>
+
+</Project>
